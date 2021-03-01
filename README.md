@@ -7,11 +7,16 @@
 
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
+- Puppy List.
+- Puppy Details.
+- Jump between list page detail page.
 
 
 ## :bulb: Motivation and Context
 <!--- Optionally point readers to interesting parts of your submission. -->
 <!--- What are you especially proud of? -->
+Compose is so interesting!!!
+
 
 
 ## :camera_flash: Screenshots
